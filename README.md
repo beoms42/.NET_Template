@@ -5,8 +5,7 @@
   <img width="1307" height="338" alt="image" src="https://github.com/user-attachments/assets/d6c4a558-68fc-4d79-bc1d-db252c1ba63b" />  
   <br>
 - create fork 버튼을 눌러 포크합니다.
-<img width="915" height="557" alt="image" src="https://github.com/user-attachments/assets/01370aa5-9f7d-405f-b58f-0e2368ce775b" />  
-  <br>
+<img width="915" height="557" alt="image" src="https://github.com/user-attachments/assets/01370aa5-9f7d-405f-b58f-0e2368ce775b" />  <br>  
 - fork된 레포지토리에서 code 버튼을 누른 후, + 버튼을 누릅니다.
 <img width="830" height="312" alt="image" src="https://github.com/user-attachments/assets/c18b6b50-4fa2-44db-9b74-970eda2ae708" />
   <br>
