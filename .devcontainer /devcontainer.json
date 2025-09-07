@@ -1,8 +1,0 @@
-{
-  "name": "Blazor WebAssembly Development",
-  "image": "mcr.microsoft.com/dotnet/sdk:9.0",
-  "postCreateCommand": "dotnet restore",
-  "extensions": [
-    "ms-dotnettools.csharp"
-  ]
-}
