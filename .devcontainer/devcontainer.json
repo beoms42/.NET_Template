@@ -1,0 +1,14 @@
+{
+  "name": "dotnet 9 devcontainer",
+  "image": "mcr.microsoft.com/dotnet/sdk:9.0",
+  "features": {
+    "ghcr.io/devcontainers/features/dotnet:1": {
+      "version": "9.0"
+    }
+  },
+  "extensions": [
+    "ms-dotnettools.csharp",
+    "ms-dotnettools.vscode-dotnet-runtime"
+  ],
+  "postCreateCommand": "dotnet --version"
+}
