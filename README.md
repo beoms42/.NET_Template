@@ -10,7 +10,10 @@
 <img width="830" height="312" alt="image" src="https://github.com/user-attachments/assets/c18b6b50-4fa2-44db-9b74-970eda2ae708" />   <br>
 - "+" 버튼을 눌러 생성된 가상 VSCode 환경에 GitHub Copilot을 설치합니다.    
   - 확장 버튼을 누른 후, github copilot을 검색한 후 설치합니다.    
-    <img width="967" height="547" alt="image" src="https://github.com/user-attachments/assets/ed253882-1579-4bde-a254-90ebbd9258bd" />
-<br>
+    <img width="967" height="547" alt="image" src="https://github.com/user-attachments/assets/ed253882-1579-4bde-a254-90ebbd9258bd" />  <br>
+- .NET version을 터미널에서 확인합니다. `dotnet --version` 명령어를 입력합니다.
+ <img width="842" height="167" alt="image" src="https://github.com/user-attachments/assets/aeae0236-0720-4845-900f-199cfcfbcff5" />  <br>  
+
+- 
 
 
