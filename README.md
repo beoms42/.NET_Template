@@ -24,11 +24,11 @@
 
 ## 1. 2~5 모듈 실습에서 zip 폴더 내용들을 붙인 후, 아래 명령어들을 통해 솔루션을 추가하세요.
 
-`bash
+```bash
 dotnet new sln -n AccelerateDevGHCopilot
 dotnet sln AccelerateDevGHCopilot.sln add src/Library.ApplicationCore/Library.ApplicationCore.csproj
 dotnet sln AccelerateDevGHCopilot.sln add src/Library.Infrastructure/Library.Infrastructure.csproj
 dotnet sln AccelerateDevGHCopilot.sln add src/Library.Console/Library.Console.csproj
 dotnet sln AccelerateDevGHCopilot.sln add tests/UnitTests/UnitTests.csproj
-`
+```
 
