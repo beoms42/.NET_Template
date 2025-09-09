@@ -22,7 +22,7 @@
 
 <br>  
 
-1. 2~5 모듈에서 zip 폴더 내용들을 붙인 후, 아래 명령어들을 통해 솔루션을 추가하세요.
+## 1. 2~5 모듈 실습에서 zip 폴더 내용들을 붙인 후, 아래 명령어들을 통해 솔루션을 추가하세요.
 
 `bash
 dotnet new sln -n AccelerateDevGHCopilot
