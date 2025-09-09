@@ -14,6 +14,11 @@
 - .NET version을 터미널에서 확인합니다. `dotnet --version` 명령어를 입력합니다.
  <img width="842" height="167" alt="image" src="https://github.com/user-attachments/assets/aeae0236-0720-4845-900f-199cfcfbcff5" />  <br>  
 
-- 
+-----
+
+참고) [Visual Studio에서 GitHub Copilot 설치](https://learn.microsoft.com/ko-kr/visualstudio/ide/visual-studio-github-copilot-install-and-states?view=vs-2022)  
+
+-----
+
 
 
