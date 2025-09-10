@@ -24,6 +24,12 @@
 
 ## 1. 2~5 모듈 실습에서 zip 폴더 내용들을 붙인 후, 아래 명령어들을 통해 솔루션을 추가하세요.
 
+0) C# Dev Kit 설치
+<img width="1596" height="716" alt="image" src="https://github.com/user-attachments/assets/1b5fdbd9-8d5b-4b26-b374-35db88baf171" />
+
+
+1) `cd AccelerateDevGHCopilot`
+
 ```bash
 dotnet new sln -n AccelerateDevGHCopilot
 dotnet sln AccelerateDevGHCopilot.sln add src/Library.ApplicationCore/Library.ApplicationCore.csproj
@@ -31,4 +37,6 @@ dotnet sln AccelerateDevGHCopilot.sln add src/Library.Infrastructure/Library.Inf
 dotnet sln AccelerateDevGHCopilot.sln add src/Library.Console/Library.Console.csproj
 dotnet sln AccelerateDevGHCopilot.sln add tests/UnitTests/UnitTests.csproj
 ```
+
+<img width="1490" height="767" alt="image" src="https://github.com/user-attachments/assets/0c00b6f0-cfc6-4655-8415-d571da1d45f8" />
 
